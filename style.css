@@ -1,0 +1,30 @@
+header {
+    background-color:#133CAB ;
+    color: #FFC140;
+}
+
+main {
+    background-color: #6D89D5;
+}
+nav a{
+color: black;
+    background-color: #FFE040;
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid #FFE040;
+    padding: 1px;
+    margin: 10px;
+    margin-top: 50px;
+}
+
+main {
+    padding-top: 20px;
+}
+
+main p {
+    font-size: 50px;
+}
+
+footer {
+    background-color: #133CAB;
+}
